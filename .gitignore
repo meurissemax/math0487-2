@@ -1,6 +1,6 @@
 .DS_Store
 
 /additional/figures/
-/resources/csv/
 
-!/resources/csv/db_stat19.csv
+/report/*
+!/report/report.pdf

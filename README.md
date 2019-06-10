@@ -10,3 +10,7 @@ Project realized as part of the *Éléments de statistiques* course given by Pro
 
 * **Maxime Meurisse** - [meurissemax](https://github.com/meurissemax)
 * **Bastien Hoffmann** - [Basthien](https://github.com/Basthien)
+
+## Score
+
+* This project received a score of **17/20**.
