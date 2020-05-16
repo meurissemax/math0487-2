@@ -1,6 +1,6 @@
+##########
+# System #
+##########
+
+# macOS
 .DS_Store
-
-/additional/figures/
-
-/report/*
-!/report/report.pdf
